@@ -114,11 +114,9 @@ IAM roles are a secure way to delegate permissions that doesn't involve sharing 
 Elastic Beanstalk offers a platform where you can easily deploy applications. Setting it up properly will ensure that the platform can handle your application with auto-scaling, load balancing, and more, without you having to manage the underlying instances.
 
 ---
+![Screenshot 2023-08-25 at 11 57 30 PM](https://github.com/jaganzen/c4_deployment2/assets/101806502/72a5c51c-2f2f-472b-a987-1dc024dc95de)
 
-![Screenshot 2023-08-25 at 11 57 30 PM](https://github.com/jaganzen/c4_deployment2/assets/101806502/9d663ae1-af68-4638-8488-6286433c79ef)
-
-![Screenshot 2023-08-25 at 11 58 12 PM](https://github.com/jaganzen/c4_deployment2/assets/101806502/6f4354fa-2aa2-49e0-8d2b-461f21448db6)
-
+![Screenshot 2023-08-25 at 11 58 12 PM](https://github.com/jaganzen/c4_deployment2/assets/101806502/194dbdde-48f8-411e-afd5-478c824a003e)
 
 ---
 
