@@ -81,6 +81,8 @@ The repository contains the base code needed for the URL-shortener. By forking i
 - Plugin: Adds utility steps to our pipeline.
 - Token: Ensures that only authorized personnel can execute builds.
 
+---
+
 ### 📦 Phase 3: Transferring Zip File and Elastic Beanstalk Setup
 
 This phase deals with transferring the built zip file from the EC2 instance to your local directory and setting up the deployment environment on Elastic Beanstalk.
