@@ -115,7 +115,10 @@ Elastic Beanstalk offers a platform where you can easily deploy applications. Se
 
 ---
 
-🎉 **Congratulations!** Your project setup is complete, and you've hopefully gained a deeper understanding of each step and why it's necessary.
+![Screenshot 2023-08-25 at 11 57 30 PM](https://github.com/jaganzen/c4_deployment2/assets/101806502/9d663ae1-af68-4638-8488-6286433c79ef)
+
+![Screenshot 2023-08-25 at 11 58 12 PM](https://github.com/jaganzen/c4_deployment2/assets/101806502/6f4354fa-2aa2-49e0-8d2b-461f21448db6)
+
 
 ---
 
